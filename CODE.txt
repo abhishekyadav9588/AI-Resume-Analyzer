@@ -1,0 +1,16 @@
+cd C:\Users\Dante\Desktop\AI-Resume-Analyzer\venvapp\Scripts
+
+activate
+
+cd../..
+
+cd C:\Users\Dante\Desktop\AI-Resume-Analyzer\App
+
+streamlit run App.py
+
+*************************************************************************************************************
+
+USERID ACCOUNT 
+
+userid - admin
+password - admin@resume-analyzer
